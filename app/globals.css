@@ -1,0 +1,11 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f6f7fb; color: #20263b; font: 1rem/1.6 system-ui, sans-serif; }
+main { max-width: 42rem; margin: 0 auto; padding: 3rem 1.25rem; }
+h1 { margin: 0; font-size: 2.5rem; }
+.eyebrow { color: #435395; letter-spacing: .12em; font-size: .75rem; font-weight: 700; }
+form, li { background: white; border: 1px solid #dce0ee; border-radius: .75rem; padding: 1rem; }
+label { display: block; margin-bottom: .4rem; font-weight: 700; }
+textarea { width: 100%; font: inherit; padding: .6rem; border: 1px solid #8c96b0; border-radius: .4rem; resize: vertical; }
+button { margin-top: .5rem; padding: .5rem 1rem; font: inherit; color: white; background: #364d9c; border: 0; border-radius: .4rem; cursor: pointer; }
+ul { padding: 0; list-style: none; }
+li { margin-bottom: .6rem; overflow-wrap: anywhere; white-space: pre-wrap; }
